@@ -23,3 +23,11 @@
   <p>Section : 2</p>
   <p>Github Username : SawarinP</p>
 </div>
+
+<div class="card">
+  <h1>Narabodee Dachkan</h1>
+   <img src="media/Best.jpg" alt="Narabodee" style="width:200px">
+  <p>Student ID : 633020556-0</p>
+  <p>Section : 2</p>
+  <p>Github Username : Narabodee</p>
+</div>
