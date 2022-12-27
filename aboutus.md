@@ -7,3 +7,12 @@
   <p>Section : 2</p>
   <p>Github Username : Cokeizz</p>
 </div>
+
+<div class="card">
+  <h1>Rattanaporn Suandokmai</h1>
+   <img src="media/Apliz.jpg" alt="RattanpornS" style="width:200px">
+  <p>Student ID : 633020559-4</p>
+  <p>Section : 2</p>
+  <p>Github Username : RattanpornS</p>
+</div>
+
