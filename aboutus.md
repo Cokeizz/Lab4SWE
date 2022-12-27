@@ -31,3 +31,11 @@
   <p>Section : 2</p>
   <p>Github Username : Narabodee</p>
 </div>
+
+<div class="card">
+  <h1>Thawitchapon Tarivic</h1>
+   <img src="media/twchp.png" alt="Thawitchapon" style="width:200px">
+  <p>Student ID : 623021020-5</p>
+  <p>Section : 2</p>
+  <p>Github Username : twchp3</p>
+</div>
