@@ -16,3 +16,10 @@
   <p>Github Username : RattanpornS</p>
 </div>
 
+<div class="card">
+  <h1>Sawarin Phoowilai</h1>
+   <img src="media/noey.jpg" alt="RattanpornS" style="width:200px">
+  <p>Student ID : 633020561-7</p>
+  <p>Section : 2</p>
+  <p>Github Username : SawarinP</p>
+</div>
